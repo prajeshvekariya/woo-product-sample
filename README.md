@@ -1,2 +1,2 @@
 # woo-product-sample
-Plugin to see sample item of product
+Plugin to sell sample item of product
